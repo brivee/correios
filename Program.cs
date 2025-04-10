@@ -1,8 +1,8 @@
 ﻿using Correios.Demo;
 
-var cepOrigem = "13202540";
+var cepOrigem = "87560000";
 
-var cepDestino = "13070760";
+var cepDestino = "35052854";
 
 var itens = new List<Item>()
 {
